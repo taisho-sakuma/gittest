@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <title>マップ: Mogami Attraction Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="../src/leaflet.css" />
+    <link rel="stylesheet" href="mogami.css" />
+    <script type="text/javascript" src="../src/leaflet.js"></script>
+    <!-- <link rel="stylesheet" href="https://www.yatex.org/gitbucket/natto/leaflet/raw/master/leaflet.css" /> -->
+    <!-- <script type="text/javascript" src="https://www.yatex.org/gitbucket/natto/leaflet/raw/master/leaflet.js"></script> -->
+    <script type="text/javascript" src="mogami.geojson"></script>
+    <!-- <script type="text/javascript" src="../src/leaflet-omnivore.min.js" charset="utf-8"></script> -->
+    <!-- <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> -->
+
+    <!-- <style type="text/css">
+        div#mymap {
+            width: auto;
+            height: 80vh;
+            margin: 0;
+            z-index: -999;
+        }
+
+        /* (2) */
+    </style> -->
+</head>
+
+<body>
+
+    <header id="head">
+        <div id="bar">
+            <h1 id="logo">Mogami Resources Map!</h1>
+        </div>
+        <div id="nav-drawer">
+            <input id="nav-input" type="checkbox" class="nav-unshown">
+            <label id="nav-open" for="nav-input"><span></span></label>
+            <label class="nav-unshown" id="nav-close" for="nav-input"></label>
+            <div id="nav-content">
+                <ul id="menu">
+                    <li><a class="Map menu" href="#">Map</a></li>
+                    <li><a class="Picture menu" href="#">Picture</a></li>
+                    <li><a class="Question menu" href="#">Question</a></li>
+                    <li><a class="Privacy-Policy menu" href="#">Privacy/Policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div id="mymap"></div> <!-- (3) -->
+    <!-- #mymap であるdivを配置したあとで (4) -->
+    <script type="text/javascript" src="mogami.js" charset="utf-8"></script>
+
+</body>
+
+</html>

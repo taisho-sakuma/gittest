@@ -1,0 +1,232 @@
+let gj = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "喜至楼",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5803.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.412467,
+          38.754234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "児持杉",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP4956.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.528972,
+          38.688763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "愛宕神社　参道",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP1869.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.51923,
+          38.761713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "干し稲",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP4882.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.469561,
+          38.781983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "最上小国川",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5042.JPG}}",
+        "_umap_options": {
+          "popupTemplate": "Default"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.472243,
+          38.75469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "小国城跡からの眺望",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP1825.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.525576,
+          38.756468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赤倉スキー場からの眺望",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP4939.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.544834,
+          38.701814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "太郎田観音横空き地",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP1914.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.490867,
+          38.765557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "田園風景①",
+        "description": " {{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP1935.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.485176,
+          38.763466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "奥の細道湯けむりライン",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP1854.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.514941,
+          38.758271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "最上駅みのり",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5696.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.517213,
+          38.756291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赤倉温泉駅",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5969.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.554069,
+          38.730349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "赤倉温泉駅２",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5973.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5536,
+          38.730709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "unknown",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5561.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.553825,
+          38.7096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "石碑",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP1805.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.520899,
+          38.755581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "富山馬頭観音",
+        "description": "{{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5992.JPG}} {{https://www.yatex.org/gitbucket/mogamimap/photo/raw/master/2016-mogami/IMGP5998.JPG}}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.549531,
+          38.734948
+        ]
+      }
+    }
+  ]
+}
